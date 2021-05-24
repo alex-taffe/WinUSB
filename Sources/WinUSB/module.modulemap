@@ -1,4 +1,4 @@
 module WinUSB [system] {
-	header "winusb.h"
+	header "usb.h"
     export *
 }
