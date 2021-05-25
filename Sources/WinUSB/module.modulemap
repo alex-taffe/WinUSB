@@ -2,4 +2,5 @@ module WinUSB [system] {
     header "usb.h"
     export *
     link "winusb.lib"
+    link "setupapi.lib"
 }
