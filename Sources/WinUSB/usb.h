@@ -4,5 +4,6 @@
 #include <windows.h>
 #include <winnt.h>
 #include <winusb.h>
+#include <setupapi.h>
 
 #endif
