@@ -5,6 +5,7 @@
 #include <winnt.h>
 #include <winusb.h>
 #include <ntddndis.h>
+#include <devpropdef.h>
 #include <setupapi.h>
 
 #endif
