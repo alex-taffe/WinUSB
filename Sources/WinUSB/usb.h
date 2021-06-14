@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <winnt.h>
 #include <winusb.h>
-typedef enum DEVPROPSTORE _DEVPROPSTORE;
+enum DEVPROPSTORE;
 #include <setupapi.h>
 
 #endif
